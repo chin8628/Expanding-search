@@ -3,7 +3,7 @@ expanding search field for use with navbar. Easy to use
 Example: http://www.cloudian.in.th/expanding-search
 
 ### Installation
-I don't know... see in example it very simple.
+I don't know... see in example's directory it very simple.
 
 * ID search-expanding for `<li>`
 * ID search-input for `<form>`
