@@ -1,5 +1,5 @@
-# Expanding-search for bootstrap navbar
-expanding search field for use with navbar. Easy to use
+# Expanding-search for bootstrap's navbar
+expanding search field for use with bootstrap's navbar. Easy to use.
 Example: http://www.cloudian.in.th/expanding-search
 
 ### Installation
