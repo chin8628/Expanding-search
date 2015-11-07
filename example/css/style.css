@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #DDD;
+}
+.example{ margin-top: 40vh; }
+.navbar-default{
+    border: 1px;
+    border-color: #AAA;
+    border-style: solid;
+}
+.navbar #icon-search{ font-size: 20px; }
+.navbar #icon-search:hover{ cursor:pointer; }
+.navbar #search-expanding{ margin-right: 15px; }
+.navbar #search-expanding > a{
+    padding-top: 14px !important;
+    padding-bottom: 11px !important;
+}
+.navbar #search-input{
+    display: none;
+    overflow: hidden;
+    width: 0px;
+    border-style: none;
+    margin-left: 3px;
+}
